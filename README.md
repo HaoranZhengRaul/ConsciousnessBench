@@ -6,7 +6,7 @@ The first systematic benchmark for evaluating consciousness-relevant traits in f
 
 Zheng, H. (2025). "Do AIs Dream of Electric Butterflies? Benchmarking LLM Consciousness via Theory-Grounded Self-Reports."
 
-**PDF**: [paper/ConsciousnessBench.pdf](paper/ConsciousnessBench.pdf) *(will be added upon publication)*
+**PDF**: [ConsciousnessBench.pdf](/ConsciousnessBench.pdf)
 
 ## Dataset
 
