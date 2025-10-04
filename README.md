@@ -15,7 +15,6 @@ Zheng, H. (2025). "Do AIs Dream of Electric Butterflies? Benchmarking LLM Consci
 **Files:**
 - `data/composite_ai_consciousness_data.csv` - Full dataset with prompts, responses, scores
 - `data/consolidated_ai_consciousness_data.csv` - Scores and metadata only
-- `data/raw_responses/` - Original Excel files
 - `questions/ConsciousnessBenc Questions.docx` - All 35 questions
 - `api_configs/` - API implementation notebooks
 
