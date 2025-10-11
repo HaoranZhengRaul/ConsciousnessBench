@@ -59,9 +59,15 @@ Claude-4 Opus (standard & thinking) | DeepSeek-V3 & R1 | Gemini-2.5 Pro & Flash 
 ## Citation
 ```bibtex
 @article{zheng2025consciousness,
-  title={Do AIs Dream of Electric Butterflies? Benchmarking LLM Consciousness via Theory-Grounded Self-Reports},
-  author={Zheng, Haoran},
-  year={2025}
+  title        = {Do AIs Dream of Electric Butterflies? Benchmarking LLM Consciousness via Theory-Grounded Self-Reports},
+  author       = {Zheng, Haoran},
+  year         = {2025},
+  month        = oct,
+  day          = 7,
+  journal      = {PsyArXiv},
+  doi          = {10.31234/osf.io/fqwp9_v1},
+  url          = {https://doi.org/10.31234/osf.io/fqwp9_v1},
+  note         = {Preprint}
 }
 ```
 
